@@ -10,6 +10,8 @@ A Synology NAS with at least two Ethernet ports
 
 Administrator account on DSM
 
+## Instruction
+
 ### Step 1 Upload the script to your NAS
 
 Upload the script to an arbitrary folder.
