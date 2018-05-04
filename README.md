@@ -29,6 +29,7 @@ Move to “Task Setting” tab.
 
 Type 
 > bash /Replace_with_your_path/vswitch_bridge.sh start 
+
 to the textbox.
 
 Click “OK” button.
