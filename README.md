@@ -32,3 +32,6 @@ Type bash /Replace_with_your_path/vswitch_bridge.sh start to the textbox.
 Click “OK” button.
 
 Reboot if you want.
+
+### Usage
+vswitch_bridge.sh start
