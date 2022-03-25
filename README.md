@@ -26,6 +26,10 @@ Click “Create” button on the top. Select “Triggered Task” -->”User-def
 
 Type any title you wish.
 
+Set the “User” to root.
+
+Set the “Event” to Boot-up.
+
 Choose the “Enable Task” box.
 
 Move to “Task Setting” tab. 
