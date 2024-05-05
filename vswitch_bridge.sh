@@ -36,7 +36,7 @@ start() {
 }
 
 stop() {
-echo "This feature will be added soon. It might be faster if you treat me snacks."
+echo "Not implemented yet. A restart will help."
 }
 
 case "$1" in
